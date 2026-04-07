@@ -1,1 +1,3 @@
-In this lab, we learned how to use classes and objects in Java to build a simple system. We practiced using ArrayLists, user input with Scanner, and methods to manage data. This project helped us understand how real-world systems like libraries can be modeled using programming.
+Since this was a team-based lab, I took the lead on the core architecture and bonus features. The biggest challenge was getting the BonusBook and BonusLibrary classes to communicate properly through the ArrayList.
+I learned how to manage object states—like switching a book from "Available" to "Borrowed" and how to implement a search filter that isn't picky about capital letters. Hosting this on GitHub was the final step and it really helped me understand how professional developers version-control their code. Everything is running smoothly and ready for review!
+Thank you!
