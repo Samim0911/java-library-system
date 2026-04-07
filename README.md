@@ -1,0 +1,1 @@
+In this lab, we learned how to use classes and objects in Java to build a simple system. We practiced using ArrayLists, user input with Scanner, and methods to manage data. This project helped us understand how real-world systems like libraries can be modeled using programming.
